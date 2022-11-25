@@ -5,7 +5,7 @@
 
 <p align='center'>
  <strong>Dino Fukuda Alves de Freitas,<strong><br>
- <strong>Dev Júnior </strong>, <strong> São Paulo - SP </strong>.
+ <strong>Dev Sênior </strong>, <strong> São Paulo - SP </strong>.
 </p>
 
 <p align='center'>  
